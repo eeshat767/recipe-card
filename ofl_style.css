@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 450vh;
+    min-height: 300vh;
     min-width: 100vw;
 
 }
